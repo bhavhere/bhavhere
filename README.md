@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaibhav Singh aka gandiv_dhari
+- 👋 Hi, I’m Vaibhav Singh
 - 👀 I’m interested in problem solving and software development
 - 🌱 I’m currently learning SQL and data analytics
 - 💞️ I’m looking to collaborate on projects related to data analytics
