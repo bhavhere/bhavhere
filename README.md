@@ -25,7 +25,7 @@
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills i have</h1>
+<h1 align="center">Skills I Have</h1>
 <Br>  
 ### 👉 Programming languages
 
@@ -113,17 +113,18 @@
   
 <Br>
 <hr>
-<Br>
-<h1>Here is a great quote by Swami Vivekanand to end the things</h1>
-<Br>
-  
-<img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
+
   
 <Br>
 <hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
-Credit: [Aryagm](https://github.com/Aryagm)
+<Br>
+<h1>Here is a great quote by Swami Vivekanand to end the things</h1>
+<Br>
+  
+<img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
+  Credit: [Aryagm](https://github.com/Aryagm)
 
 
