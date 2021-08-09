@@ -26,8 +26,10 @@
 <hr>
 <Br>
 <h1 align="center">Skills I Have</h1>
-<Br>  
+<Br> 
+  
 ### 👉 Programming languages
+  ### 👉 Frontend Development
 
 <p align="left"> 
   &emsp; 
