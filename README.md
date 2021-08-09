@@ -113,15 +113,9 @@
 <br/>
   
 <Br>
-<hr>
-
-  
+<h1></h1>
 <Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
-<h1>Here is a great quote by Swami Vivekanand to end the things</h1>
+<h1>Thank You! 🤵,Here is a great quote by Swami Vivekanand to end the things</h1>
 <Br>
   
 <img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
