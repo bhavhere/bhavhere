@@ -120,7 +120,6 @@
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
-<Br>
 <h1>Here is a great quote by Swami Vivekanand to end the things</h1>
 <Br>
   
