@@ -29,7 +29,6 @@
 <Br> 
   
 ### 👉 Programming languages
-  ### 👉 Frontend Development
 
 <p align="left"> 
   &emsp; 
