@@ -79,7 +79,7 @@
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>
   
-<img src="https://s3.india.com/wp-content/uploads/2020/06/Swami-Vivekananda2.jpg?impolicy=Medium_Widthonly&w=600"/>
+<img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
   
 <Br>
 <hr>
