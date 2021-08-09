@@ -76,7 +76,7 @@
 <Br>
 <hr>
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1>Here is a great quote by Swami Vivekanand to end the things</h1>
 <Br>
   
 <img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
@@ -86,10 +86,6 @@
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
-
-------
-  
 Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
 
 
