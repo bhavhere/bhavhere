@@ -118,6 +118,6 @@
 <h2>Thank You 🤵, for reading till end, here is one of my favourite quotes: </h2>
   
 <img src="https://www.yourselfquotes.com/wp-content/uploads/SwamiVivekananda-Quotes-Images.png"/>
-  Credit: [Aryagm](https://github.com/Aryagm)
+ Special Thanks to:  [Aryagm](https://github.com/Aryagm)
 
 
