@@ -118,6 +118,3 @@
 <h2>Thank You 🤵, for reading till end, here is one of my favourite quotes: </h2>
   
 <img src="https://www.khorus.com/wp-content/uploads/2017/12/Picasso-quotes.png"/>
- Special Thanks to:  [Aryagm](https://github.com/Aryagm)
-
-
