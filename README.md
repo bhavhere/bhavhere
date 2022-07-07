@@ -2,11 +2,11 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hello everyone, I'm <a href="https://github.com/bhavhere">Vaibhav Singh</h1>
+<h1 align="center">Hello everyone, I'm <a href="https://github.com/bhavhere">Vaibhav Singh</a></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫 I'm a final year computer science student studing in VIT,Vellore
+- 🏫 I'm a computer science graduate from VIT Vellore
 - 👀 I’m interested in problem solving and software development
 - 🌱 I’m currently learning SQL and data analytics
 - 💞️ I’m looking to collaborate on projects related to data analytics
